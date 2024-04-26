@@ -43,26 +43,26 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- 2024.06 *Travel Scholarship*, State of the Map US conference (OpenStreetMap)
-- 2024.04 *Student Honors Paper Competition Award (1st place)*, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers 
-- 2024.04 *AAG Student Travel Grants*, Annual Meeting of the Association of American Geographers
+- 2024.06 **Travel Scholarship**, State of the Map US conference (OpenStreetMap)
+- 2024.04 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers 
+- 2024.04 **AAG Student Travel Grants**, Annual Meeting of the Association of American Geographers
 - 2021-2024 *Graduate School Conference Travel Grant*, State University of New York at Buffalo.
 
 # 📖 Educations
-- *2020.08 - Now*, Geography and Environmental Studies (STEM), State University of New York, at Buffalo
-- *2018.12 - 2019.12*, Appl of GIS/RS in Environ Sci, East Stroudsburg University of Pennsylvania
-- *2015.09 - 2019.06*, Human Geography and Urban-Rural Planning, Henan University
+- 2020.08 - Now, **Geography and Environmental Studies (STEM), State University of New York, at Buffalo**
+- 2018.12 - 2019.12, **Appl of GIS/RS in Environ Sci, East Stroudsburg University of Pennsylvania**
+- 2015.09 - 2019.06, **Human Geography and Urban-Rural Planning, Henan University**
 
 # 💬 Conference Presentations
-- *Wang, S* and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
+- **Wang, S** and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
 based on PlanetScope time series. Annual Meeting of the Association of American Geographers (AAG), Honolulu, Hawaii. April 16-April 20, 2024.
-- *Wang, S* and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
+- **Wang, S** and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
 based on PlanetScope time series. Spring 2024 Colloquial Series, Department of Geography. March 29, 2023
-- *Wang, S* and L. Wang. (2023). A novel framework for mapping updated fine-resolution populations with remote sensing and mobile phone data. Annual Meeting of the Association of American Geographers (AAG), Denver, CO. March 23-March 27, 2023.
-- *Wang, S* and L. Wang. (2023). A novel framework for mapping updated fine-resolution populations with remote sensing and mobile phone data. Spring 2023 Colloquial Series, Department of Geography. March 3, 2023
-- *Wang, S* and L. Wang. Mapping population distribution at the building level using multi-source data. UB Geography & UB Libraries Celebrate Earth Day 2022 (Virtual). April 22, 2022.
-- *Wang, S* and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Annual Meeting of the Association of American Geographers (AAG) (Virtual). Feb. 25-March 1, 2022.
-- *Wang, S* and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Spring 2022 Graduate Student Lightning Talks, Department of Geography (Virtual). Feb. 18, 2022
+- **Wang, S** and L. Wang. (2023). A novel framework for mapping updated fine-resolution populations with remote sensing and mobile phone data. Annual Meeting of the Association of American Geographers (AAG), Denver, CO. March 23-March 27, 2023.
+- **Wang, S** and L. Wang. (2023). A novel framework for mapping updated fine-resolution populations with remote sensing and mobile phone data. Spring 2023 Colloquial Series, Department of Geography. March 3, 2023
+- **Wang, S** and L. Wang. Mapping population distribution at the building level using multi-source data. UB Geography & UB Libraries Celebrate Earth Day 2022 (Virtual). April 22, 2022.
+- **Wang, S** and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Annual Meeting of the Association of American Geographers (AAG) (Virtual). Feb. 25-March 1, 2022.
+- **Wang, S** and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Spring 2022 Graduate Student Lightning Talks, Department of Geography (Virtual). Feb. 18, 2022
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
