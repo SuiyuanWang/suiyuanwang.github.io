@@ -30,7 +30,7 @@ My research interest includes:
 
 # 📝 Publications 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Wang, S` and L. Wang. (2023). A novel framework for mapping updated fine-resolution populations with remote sensing and mobile phone data. *In review*.
