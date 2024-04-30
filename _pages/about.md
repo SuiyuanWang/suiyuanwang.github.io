@@ -48,7 +48,6 @@ My research interest includes:
 - 2018.12 - 2019.12, **Appl of GIS/RS in Environ Sci, East Stroudsburg University of Pennsylvania**
 - 2015.09 - 2019.06, **Human Geography and Urban-Rural Planning, Henan University**
 
-<span class='anchor' id='-conference-presentation'></span>
 # 💬 Conference Presentation
 - **Wang, S** and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
 based on PlanetScope time series. Annual Meeting of the Association of American Geographers (AAG), Honolulu, Hawaii. April 16-April 20, 2024.
