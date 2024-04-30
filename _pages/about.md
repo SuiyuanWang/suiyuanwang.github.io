@@ -62,4 +62,7 @@ based on PlanetScope time series. Spring 2024 Colloquial Series, Department of G
 - **Wang, S** and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Spring 2022 Graduate Student Lightning Talks, Department of Geography (Virtual). Feb. 18, 2022
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 2023-2024	**Research Assistant**	Center for Urban Studies, University at Buffalo
+- 2021-2023	**Teaching Assistant**	Department of Geography, University at Buffalo
+- 2019	**Research Assistant**	Delaware Tribe's Historic Preservation Office, USA
+
