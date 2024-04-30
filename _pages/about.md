@@ -64,3 +64,9 @@ based on PlanetScope time series. Spring 2024 Colloquial Series, Department of G
 - 2021-2023	**Teaching Assistant**	Department of Geography, University at Buffalo
 - 2019	**Research Assistant**	Delaware Tribe's Historic Preservation Office, USA
 
+# 💼 Affiliations
+- 2023-2025	**Student Co-director**	Association of American Geographers (AAG), Remote Sensing Specialty Group (RRSG)
+- 2023 **Committee member**	Graduate Student Employees Union (GSEU) Spring Contract Bargaining Committee
+- 2020-2023	**Member** International Association of Chinese Professionals in Geographic Information Sciences (CPGIS)
+- 2021-2023	**Member** University Consortium for Geographic Information Science (UCGIS)
+
