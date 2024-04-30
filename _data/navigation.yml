@@ -16,7 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Conference Presentation"
-    url: "/#-conference-presentaiton"
+    url: "/#-conference-presentation" 
 
   - title: "Internships"
     url: "/#-internships"
