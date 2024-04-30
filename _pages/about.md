@@ -29,7 +29,6 @@ My research interest includes:
 - 2024.04 🎉🎉 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers
 
 # 📝 Publications 
----
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,7 +36,6 @@ My research interest includes:
 
 </div>
 </div>
----
 
 # 🎖 Honors and Awards
 - 2024.06 **Travel Scholarship**, State of the Map US conference (OpenStreetMap)
