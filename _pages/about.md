@@ -19,13 +19,20 @@ redirect_from:
 
 I am a Ph.D. candidate from the Department of Geography, State University of New York at Buffalo, advised by Dr. Le Wang.
 
-My research interest includes: 
+My research interests include: 
 - Remote Sensing & GIScience
 - Fine-scale Population estimation
+- Fine-resolution (Spatial & Temporal) Urban studies 
+- Time-series analysis
 - Coupled Human-Environment Interaction
 
 # 🔥 News
 - 2024.04 🎉🎉 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers
+
+# 📖 Educations
+- 2020.08 - Now, **Geography and Environmental Studies (STEM), State University of New York, at Buffalo**
+- 2018.12 - 2019.12, **Appl of GIS/RS in Environ Sci, East Stroudsburg University of Pennsylvania**
+- 2015.09 - 2019.06, **Human Geography and Urban-Rural Planning, Henan University**
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
@@ -37,15 +44,20 @@ My research interest includes:
 </div>
 
 # 🎖 Honors and Awards
-- 2024.06 **Travel Scholarship**, State of the Map US conference (OpenStreetMap)
-- 2024.04 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers 
-- 2024.04 **AAG Student Travel Grants**, Annual Meeting of the Association of American Geographers
-- 2021-2024 *Graduate School Conference Travel Grant*, State University of New York at Buffalo.
+- 2024.06 **Travel Scholarship**, State of the Map US conference (OpenStreetMap).
+- 2024.04 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers.
+- 2024.04 **AAG Student Travel Grants**, Annual Meeting of the Association of American Geographers.
+- 2021-2024 **Graduate School Conference Travel Grant**, State University of New York at Buffalo.
+- 2023-2024	**Tuition Scholarship**	Center for Urban Studies, University at Buffalo.
+- 2021-2022	**Tuition Scholarship**	Department of Geography, University at Buffalo.
+- 2019	**Excellent Student Award**	Henan University.
+- 2017	**Provincial Outstanding Volunteer Team Award**	China Land Science Society funded project: Voluntary Activities in Village Land-Use Planning, in Chang yuan County, Henan Province, China; complete the master plan, landscape guide map, and manual
 
-# 📖 Educations
-- 2020.08 - Now, **Geography and Environmental Studies (STEM), State University of New York, at Buffalo**
-- 2018.12 - 2019.12, **Appl of GIS/RS in Environ Sci, East Stroudsburg University of Pennsylvania**
-- 2015.09 - 2019.06, **Human Geography and Urban-Rural Planning, Henan University**
+# 🧑‍🏫 Teaching Experience
+- Spring 2023	**GEO 479/559	GIS for Environmental Modeling** (Lab Sections) (UB)
+- Spring 2023, **Spring 2022	GEO 381	Cartography** (Lab Sections) (UB)
+- Fall 2022	**GEO 483/553	Remote Sensing** (Lab Sections) (UB) 
+- Fall 2021	**GEO 481/506	Introduction to Geographical Information System** (Lab Sections) (UB)
 
 # 💬 Conference Presentation
 - **Wang, S** and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
