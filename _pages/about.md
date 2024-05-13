@@ -38,10 +38,16 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Wang, S` and L. Wang. (2023). A novel framework for mapping updated fine-resolution populations with remote sensing and mobile phone data. *In review*.
+-	**Wang, S** and L. Wang. (2023). A novel framework for mapping updated fine-resolution populations with remote sensing and mobile phone data. *In review*.
 
 </div>
 </div>
+
+# 💼 Professional Appointment
+- 2024-Now  **Research Assistant**  Research Project: Neighborhood impacts of recreational cannabis legalization: A spatial and sentimental analysis in physical and cyber spaces, The Baldy Center for Law and Social Policy, University at Buffalo
+- 2023-Now	**Research Assistant** 	Center for Urban Studies, University at Buffalo.
+- 2021-2023	**Teaching Assistant**	Department of Geography, University at Buffalo.
+- 2019	**Research Assistant**	Delaware Tribe's Historic Preservation Office, USA.
 
 # 🎖 Honors and Awards
 - 2024.06 **Travel Scholarship**, State of the Map US conference (OpenStreetMap).
