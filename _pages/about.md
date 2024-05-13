@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate from the Department of Geography, State University of New York at Buffalo, advised by Dr. Le Wang. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am a Ph.D. candidate from the Department of Geography, State University of New York at Buffalo, advised by Dr. Le Wang.
 
 My research interest includes: 
 - Remote Sensing & GIScience
