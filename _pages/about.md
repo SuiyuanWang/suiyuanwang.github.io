@@ -43,7 +43,6 @@ My research interests include:
 
 </div>
 </div>
-</div>
 
 # 📖 Educations
 - 2020.08 - Now, **Geography and Environmental Studies (STEM), State University of New York, at Buffalo**
