@@ -27,9 +27,21 @@ My research interests include:
 - Coupled Human-Environment Interaction
 
 # 🔥 News
-- 2024.06 🎉🎉 **Present at State of the Map US 2024 conference in Salt Lake** 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D9GzD2YQAQA?si=-VWC3_Z32ej2DBUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- 2024.06 🎉🎉 **Present at State of the Map US 2024 conference in Salt Lake**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2024 AAG RSSG Student Honors Paper_1 Place_SuiyuanWang.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - 2024.04 🎉🎉 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers
+
+</div>
+</div>
 
 # 📖 Educations
 - 2020.08 - Now, **Geography and Environmental Studies (STEM), State University of New York, at Buffalo**
