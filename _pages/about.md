@@ -34,12 +34,14 @@ My research interests include:
 - 2024.06 🎉🎉 **Present at State of the Map US 2024 conference in Salt Lake**
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2024 AAG RSSG Student Honors Paper_1 Place_SuiyuanWang.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - 2024.04 🎉🎉 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers
 
+</div>
 </div>
 </div>
 
