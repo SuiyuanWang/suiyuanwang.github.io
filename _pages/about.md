@@ -28,14 +28,11 @@ My research interests include:
 
 # 🔥 News
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='https://www.youtube.com/embed/D9GzD2YQAQA?si=-VWC3_Z32ej2DBUc' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <iframe width="280" height="157.5" src="https://www.youtube.com/embed/D9GzD2YQAQA?si=hbLAmnyeqkVabxbv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class='paper-box-text' markdown="1">
   
 - 2024.06 🎉🎉 **Present at State of the Map US 2024 conference in Salt Lake**
 
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2024 AAG RSSG Student Honors Paper_1 Place_SuiyuanWang.jpg' alt="sym" width="100%"></div></div>
