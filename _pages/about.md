@@ -31,8 +31,8 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/1716492269640.jfif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- 2024.06 🎉🎉 **Present at State of the Map US 2024 conference in Salt Lake**
-
+- 2024.06 🎉🎉 **Present at State of the Map US 2024 conference in Salt Lake**, [Talk Link](https://youtu.be/D9GzD2YQAQA?si=98-ffcsLncRww11e)
+  </div>
 </div>
 </div>
 
