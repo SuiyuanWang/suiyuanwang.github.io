@@ -26,11 +26,15 @@ My research interests include:
 - Time-series analysis
 - Coupled Human-Environment Interaction
 
-
-<div class="storymap-container">
-  <iframe src="https://uploads.knightlab.com/storymapjs/eba5234c5c48d9e78f46b6ce378a8d1a/suiyuan-wang/index.html" frameborder="0"></iframe>
+<div class="storymap-container" style="margin-top: 20px; margin-bottom: 40px;">
+  <iframe 
+    src="https://uploads.knightlab.com/storymapjs/eba5234c5c48d9e78f46b6ce378a8d1a/suiyuan-wang/index.html" 
+    frameborder="0" 
+    width="100%" 
+    height="800">
+  </iframe>
 </div>
-  
+
 # 🔥 News
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/1716492269640.jfif' alt="sym" width="100%"></div></div>
