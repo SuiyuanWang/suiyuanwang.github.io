@@ -66,6 +66,8 @@ My research interests include:
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Published**
 -	**Wang, S.**, & Wang, L. (2024). A Novel Framework for Mapping Updated Fine-resolution Populations with Remote Sensing and Mobile Phone Data. Journal of Remote Sensing, 4, 0227. (IF: 8.8)
@@ -81,18 +83,18 @@ My research interests include:
 </div>
 
 # 💼 Professional Appointment
-- 2024-Now  **Research Assistant**  Research Project: Neighborhood impacts of recreational cannabis legalization: A spatial and sentimental analysis in physical and cyber spaces, The Baldy Center for Law and Social Policy, University at Buffalo
-- 2023-Now	**Research Assistant** 	Center for Urban Studies, University at Buffalo.
-- 2021-2023	**Teaching Assistant**	Department of Geography, University at Buffalo.
+- 2024-Now  **Research Assistant**  Research Project: Neighborhood impacts of recreational cannabis legalization: A spatial and sentimental analysis in physical and cyber spaces, The Baldy Center for Law and Social Policy, UB
+- 2023-Now	**Research Assistant** 	Center for Urban Studies, UB.
+- 2021-2023	**Teaching Assistant**	Department of Geography, UB.
 - 2019	**Research Assistant**	Delaware Tribe's Historic Preservation Office, USA.
 
 # 🎖 Honors and Awards
 - 2024.06 **Travel Scholarship**, State of the Map US conference (OpenStreetMap).
 - 2024.04 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers.
 - 2024.04 **AAG Student Travel Grants**, Annual Meeting of the Association of American Geographers.
-- 2021-2024 **Graduate School Conference Travel Grant**, State University of New York at Buffalo.
-- 2023-2024	**Tuition Scholarship**	Center for Urban Studies, University at Buffalo.
-- 2021-2022	**Tuition Scholarship**	Department of Geography, University at Buffalo.
+- 2021-2024 **Graduate School Conference Travel Grant**, UB.
+- 2023-2024	**Tuition Scholarship**	Center for Urban Studies, UB.
+- 2021-2022	**Tuition Scholarship**	Department of Geography, UB.
 - 2019	**Excellent Student Award**	Henan University.
 - 2017	**Provincial Outstanding Volunteer Team Award**	China Land Science Society funded project: Voluntary Activities in Village Land-Use Planning, in Chang yuan County, Henan Province, China; complete the master plan, landscape guide map, and manual
 
@@ -114,8 +116,8 @@ based on PlanetScope time series. Spring 2024 Colloquial Series, Department of G
 - **Wang, S** and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Spring 2022 Graduate Student Lightning Talks, Department of Geography (Virtual). Feb. 18, 2022
 
 # 💻 Professional Appointments
-- 2023-2024	**Research Assistant**	Center for Urban Studies, University at Buffalo
-- 2021-2023	**Teaching Assistant**	Department of Geography, University at Buffalo
+- 2023-2024	**Research Assistant**	Center for Urban Studies, UB
+- 2021-2023	**Teaching Assistant**	Department of Geography, UB
 - 2019	**Research Assistant**	Delaware Tribe's Historic Preservation Office, USA
 
 # 💼 Affiliations
