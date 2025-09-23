@@ -39,7 +39,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/remotesensing.0227.fig.001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- 2024.08 🎉🎉 **My first publication about how to use Remote Sensing and Mobile Phone Data to map monthly population, Open Access!**, [Paper Link](https://spj.science.org/doi/full/10.34133/remotesensing.0227)
+- 2024.08 🎉🎉 **My first publication about how to use Remote Sensing and Mobile Phone Data to map monthly population, Open Access!** [Paper Link](https://spj.science.org/doi/full/10.34133/remotesensing.0227)
 </div>
 </div>
 
