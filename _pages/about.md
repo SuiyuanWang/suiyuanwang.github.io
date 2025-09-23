@@ -36,6 +36,13 @@ My research interests include:
 
 # 🔥 News
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2025-09-23 163208.png"' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- 2024.08 🎉🎉 **Solo instructor for GEO 120 Maps: Earth from Above** [Syllabus Link](https://buffalo.box.com/s/09w8ll3925nyvsnd5b1s76itxq3dr6b3)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/remotesensing.0227.fig.001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -66,7 +73,7 @@ My research interests include:
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2025-09-23 163208.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Published**
@@ -82,12 +89,6 @@ My research interests include:
 </div>
 </div>
 
-# 💼 Professional Appointment
-- 2024-Now  **Research Assistant**  Research Project: Neighborhood impacts of recreational cannabis legalization: A spatial and sentimental analysis in physical and cyber spaces, The Baldy Center for Law and Social Policy, UB
-- 2023-Now	**Research Assistant** 	Center for Urban Studies, UB.
-- 2021-2023	**Teaching Assistant**	Department of Geography, UB.
-- 2019	**Research Assistant**	Delaware Tribe's Historic Preservation Office, USA.
-
 # 🎖 Honors and Awards
 - 2024.06 **Travel Scholarship**, State of the Map US conference (OpenStreetMap).
 - 2024.04 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers.
@@ -97,12 +98,19 @@ My research interests include:
 - 2021-2022	**Tuition Scholarship**	Department of Geography, UB.
 - 2019	**Excellent Student Award**	Henan University.
 - 2017	**Provincial Outstanding Volunteer Team Award**	China Land Science Society funded project: Voluntary Activities in Village Land-Use Planning, in Chang yuan County, Henan Province, China; complete the master plan, landscape guide map, and manual
+  
+# 💼 Professional Appointment
+- 2024-2025 **Research Assistant**  Research Project: Neighborhood impacts of recreational cannabis legalization: A spatial and sentimental analysis in physical and cyber spaces, The Baldy Center for Law and Social Policy, UB
+- 2023-2024	**Research Assistant** 	Center for Urban Studies, UB.
+- 2021-2023	**Teaching Assistant**	Department of Geography, UB.
+- 2019 **Research Assistant**	Delaware Tribe's Historic Preservation Office, USA.
 
 # 🧑‍🏫 Teaching Experience
-- Spring 2023	**GEO 479/559	GIS for Environmental Modeling** (Lab Sections) (UB)
-- Spring 2023, **Spring 2022	GEO 381	Cartography** (Lab Sections) (UB)
-- Fall 2022	**GEO 483/553	Remote Sensing** (Lab Sections) (UB) 
-- Fall 2021	**GEO 481/506	Introduction to Geographical Information System** (Lab Sections) (UB)
+- Spring 2025 **GEO 120 Maps: Earth from Above** (Solo Instructor, 97 students)
+- Spring 2023	**GEO 479/559	GIS for Environmental Modeling** (Lab Sections) 
+- Spring 2023 **Spring 2022	GEO 381	Cartography** (Lab Sections)
+- Fall 2022	**GEO 483/553	Remote Sensing** (Lab Sections)
+- Fall 2021	**GEO 481/506	Introduction to Geographical Information System** (Lab Sections)
 
 # 💬 Conference Presentation
 - **Wang, S** and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
