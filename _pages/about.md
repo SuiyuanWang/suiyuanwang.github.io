@@ -73,8 +73,6 @@ My research interests include:
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2025-09-23 163208.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Published**
 -	**Wang, S.**, & Wang, L. (2024). A Novel Framework for Mapping Updated Fine-resolution Populations with Remote Sensing and Mobile Phone Data. Journal of Remote Sensing, 4, 0227. (IF: 8.8)
@@ -113,6 +111,8 @@ My research interests include:
 - Fall 2021	**GEO 481/506	Introduction to Geographical Information System** (Lab Sections)
 
 # 💬 Conference Presentation
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2025-09-23 163208.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - **Wang, S** and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
 based on PlanetScope time series. Annual Meeting of the Association of American Geographers (AAG), Honolulu, Hawaii. April 16-April 20, 2024.
 - **Wang, S** and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
