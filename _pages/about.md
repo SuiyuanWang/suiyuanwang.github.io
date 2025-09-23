@@ -71,8 +71,15 @@ My research interests include:
 - 2015.09 - 2019.06, **Human Geography and Urban-Rural Planning, Henan University**
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box">
+
+  <!-- Image floated left -->
+  <div class="paper-box-image" style="float:left; width:150px; margin:0 20px 20px 0;">
+    <img src="images/Mobile.png" alt="sym" style="width:100%; height:auto;">
+  </div>
+
+  <!-- Text that wraps around -->
+  <div class="paper-box-text" markdown="1">
 
 **Published**
 -	**Wang, S.**, & Wang, L. (2024). A Novel Framework for Mapping Updated Fine-resolution Populations with Remote Sensing and Mobile Phone Data. Journal of Remote Sensing, 4, 0227. (IF: 8.8)
@@ -84,7 +91,10 @@ My research interests include:
 - **Wang, S.**, & L. Wang. (2025). Continuous monitoring of high spatial and temporal resolution impervious surfaces based on PlanetScope time series. Remote Sensing of Environment. (Submitted in Aug 2025, Under Review)
 - Yin, L., Silverman, R. M., **Wang, S.**, Patterson, K. L., & Rehman-Veal, A. (2025) Using ChatGPT to Enhance the Public Participation Process: An Analysis of Public Comments about the U.S. DEA’s Proposal to Reschedule Marijuana. (Planned submission by September 2025)
 - Yin, L., **Wang, S.**, Patterson, K. L., Silverman, R. M., & Rehman-Veal, A. (2025) Exploring Media Perspectives and Public Sentiments of New York State Recreational Marijuana Legalization: Analyzing New York Times and Twitter Data using ChatGPT. (Planned submission by October 2025)
-</div>
+  </div>
+
+  <!-- Clear float after text -->
+  <div style="clear:both;"></div>
 </div>
 
 # 🎖 Honors and Awards
