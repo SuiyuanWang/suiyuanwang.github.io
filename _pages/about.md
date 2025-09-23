@@ -17,25 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate from the Department of Geography, State University of New York at Buffalo, advised by Dr. Le Wang.
+Suiyuan Wang is a Ph.D. candidate in the Department of Geography at the State University of New York at Buffalo, advised by Dr. Le Wang. Her research and dissertation focus on leveraging knowledge-driven insights from spatial-temporal urban monitoring to promote equitable neighborhood development. She specializes in using advanced geographic information science (GIS) and remote sensing (RS) techniques to monitor urban changes, identify socioeconomic and environmental equity issues, and explore effective strategies for creating sustainable urban environments.
 
 My research interests include: 
 - Remote Sensing & GIScience
 - Fine-scale Population estimation
-- Fine-resolution (Spatial & Temporal) Urban studies 
-- Time-series analysis
-- Coupled Human-Environment Interaction
+- High Spatial & Temporal Urban change detection (Impervious Surfaces) 
+- Time-series analysis with cutting-edge Deep Learning methods
 
 <div class="storymap-container" style="margin-top: 20px; margin-bottom: 40px;">
   <iframe 
-    src="https://uploads.knightlab.com/storymapjs/eba5234c5c48d9e78f46b6ce378a8d1a/suiyuan-wang/index.html" 
+    src="https://uploads.knightlab.com/storymapjs/abb4c065e53398ecdda484efc07745c8/suiyuan-wang/index.html" 
     frameborder="0" 
     width="100%" 
-    height="600">
+    height="400">
   </iframe>
 </div>
 
 # 🔥 News
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/1716492269640.jfif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- 2024.08 🎉🎉 **My first publication about how to use Remote Sensing and Mobile Phone Data to map monthly population, Open Access!**, [Paper Link](https://spj.science.org/doi/full/10.34133/remotesensing.0227)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/1716492269640.jfif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +59,7 @@ My research interests include:
 </div>
 
 # 📖 Educations
-- 2020.08 - Now, **Geography and Environmental Studies (STEM), State University of New York, at Buffalo**
+- 2020.08 - Now, **Geography and Environmental Studies (STEM), State University of New York, at Buffalo (UB)**
 - 2018.12 - 2019.12, **Appl of GIS/RS in Environ Sci, East Stroudsburg University of Pennsylvania**
 - 2015.09 - 2019.06, **Human Geography and Urban-Rural Planning, Henan University**
 
@@ -61,8 +67,16 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Mobile.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Wang, S** and L. Wang. (2023). A novel framework for mapping updated fine-resolution populations with remote sensing and mobile phone data. *In review*.
-
+**Published**
+-	**Wang, S.**, & Wang, L. (2024). A Novel Framework for Mapping Updated Fine-resolution Populations with Remote Sensing and Mobile Phone Data. Journal of Remote Sensing, 4, 0227. (IF: 8.8)
+-	Yin, L., **Wang, S.**, Patterson, K. L., Silverman, R. M., & Rehman-Veal, A. (2024). Marijuana Dispensary Locations and Neighborhood Characteristics in New York City. ISPRS International Journal of Geo-Information, 14(1), 4.
+-	Patterson, K. L., Silverman, R. M., Rehman-Veal, A., Yin, L., & **Wang, S.** (2024). Building the Prison to Legal Drug Dealing Pipeline: A Comparative Analysis of Social Equity Policies in Recreational Cannabis Licensing. Societies, 14(6), 88.
+-	L’Huillier, J. C., Boccardo, J. D., Stewart, M., **Wang, S.**, Myneni, A. A., Bari, A. A., ... & Noyes, K. (2023). Gun violence revictimization in New York State: what increases the risk of being shot again?. Journal of trauma and acute care surgery, 10-1097.
+  
+**In progress**
+- **Wang, S.**, & L. Wang. (2025). Continuous monitoring of high spatial and temporal resolution impervious surfaces based on PlanetScope time series. Remote Sensing of Environment. (Submitted in Aug 2025, Under Review)
+- Yin, L., Silverman, R. M., **Wang, S.**, Patterson, K. L., & Rehman-Veal, A. (2025) Using ChatGPT to Enhance the Public Participation Process: An Analysis of Public Comments about the U.S. DEA’s Proposal to Reschedule Marijuana. (Planned submission by September 2025)
+- Yin, L., **Wang, S.**, Patterson, K. L., Silverman, R. M., & Rehman-Veal, A. (2025) Exploring Media Perspectives and Public Sentiments of New York State Recreational Marijuana Legalization: Analyzing New York Times and Twitter Data using ChatGPT. (Planned submission by October 2025)
 </div>
 </div>
 
@@ -99,14 +113,15 @@ based on PlanetScope time series. Spring 2024 Colloquial Series, Department of G
 - **Wang, S** and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Annual Meeting of the Association of American Geographers (AAG) (Virtual). Feb. 25-March 1, 2022.
 - **Wang, S** and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Spring 2022 Graduate Student Lightning Talks, Department of Geography (Virtual). Feb. 18, 2022
 
-# 💻 Internships
+# 💻 Professional Appointments
 - 2023-2024	**Research Assistant**	Center for Urban Studies, University at Buffalo
 - 2021-2023	**Teaching Assistant**	Department of Geography, University at Buffalo
 - 2019	**Research Assistant**	Delaware Tribe's Historic Preservation Office, USA
 
 # 💼 Affiliations
-- 2023-2025	**Student Co-director**	Association of American Geographers (AAG), Remote Sensing Specialty Group (RRSG)
-- 2023 **Committee member**	Graduate Student Employees Union (GSEU) Spring Contract Bargaining Committee
+- 2024-2026 **Vice president** Geography Graduate Student Associate, UB
+- 2023-2025	**Student Co-director** Remote Sensing Specialty Group (RRSG), Association of American Geographers
+- 2023 **Committee member**	Graduate Student Employees Union (GSEU) Spring Contract Bargaining Committee, UB
 - 2020-2023	**Member** International Association of Chinese Professionals in Geographic Information Sciences (CPGIS)
 - 2021-2023	**Member** University Consortium for Geographic Information Science (UCGIS)
 
