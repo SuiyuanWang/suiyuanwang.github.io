@@ -120,6 +120,9 @@ based on PlanetScope time series. Spring 2024 Colloquial Series, Department of G
 - **Wang, S** and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Annual Meeting of the Association of American Geographers (AAG) (Virtual). Feb. 25-March 1, 2022.
 - **Wang, S** and L. Wang. Mapping fine-scale population distribution at the building level using improved geographical random forest with multi-source data. Spring 2022 Graduate Student Lightning Talks, Department of Geography (Virtual). Feb. 18, 2022
 
+</div>
+</div>
+
 # 💻 Professional Appointments
 - 2023-2024	**Research Assistant**	Center for Urban Studies, UB
 - 2021-2023	**Teaching Assistant**	Department of Geography, UB
