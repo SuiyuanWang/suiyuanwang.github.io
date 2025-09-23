@@ -123,6 +123,7 @@ My research interests include:
 # 💬 Conference Presentation
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2025-09-23 163208.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 - **Wang, S** and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
 based on PlanetScope time series. Annual Meeting of the Association of American Geographers (AAG), Honolulu, Hawaii. April 16-April 20, 2024.
 - **Wang, S** and L. Wang. (2024). Continuous monitoring of high spatial and temporal resolution impervious surfaces 
