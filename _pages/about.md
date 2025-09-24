@@ -39,7 +39,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2025-09-23 165247.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- 2024.08 🎉🎉 **Solo instructor for GEO 120 Maps: Earth from Above** [Syllabus Link](https://buffalo.box.com/s/09w8ll3925nyvsnd5b1s76itxq3dr6b3)
+- 2025.05 🎉🎉 **Solo instructor for GEO 120 Maps: Earth from Above** [Syllabus Link](https://buffalo.box.com/s/09w8ll3925nyvsnd5b1s76itxq3dr6b3)
 </div>
 </div>
 
