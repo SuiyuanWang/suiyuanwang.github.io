@@ -36,6 +36,14 @@ My research interests include:
 
 # 🔥 News
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images\SUNYAi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- 2025.12 🎉🎉 **Co-PI Funding for my Dissertation $71,295 ** Proposal: Decoding Urban Scaling Theory with AI 
+Foundation Models and Remote Sensing: U.S. 0.3-2 m Impervious Surface Mapping (2002-2024) and Peer City Discovery
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2025-09-23 165247.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -70,6 +78,9 @@ My research interests include:
 - 2018.12 - 2019.12, **Appl of GIS/RS in Environ Sci, East Stroudsburg University of Pennsylvania**
 - 2015.09 - 2019.06, **Human Geography and Urban-Rural Planning, Henan University**
 
+# Funded Projects
+2025.12-2026.03 SUNYAI platform: Decoding Urban Scaling Theory with AI Foundation Models and Remote Sensing: U.S. 0.3-2 m Impervious Surface Mapping (2002-2024) and Peer City Discovery. PI: Le wang, Co-PI: **Suiyuan Wang**, Funding:$71,295
+
 # 📝 Publications 
 
 **Published**
@@ -79,8 +90,9 @@ My research interests include:
 -	L’Huillier, J. C., Boccardo, J. D., Stewart, M., **Wang, S.**, Myneni, A. A., Bari, A. A., ... & Noyes, K. (2023). Gun violence revictimization in New York State: what increases the risk of being shot again?. Journal of trauma and acute care surgery, 10-1097.
   
 **In progress**
-- **Wang, S.**, & L. Wang. (2025). Continuous monitoring of high spatial and temporal resolution impervious surfaces based on PlanetScope time series. Remote Sensing of Environment. (Submitted in Aug 2025, Under Review)
-- Yin, L., Silverman, R. M., **Wang, S.**, Patterson, K. L., & Rehman-Veal, A. (2025) Using ChatGPT to Enhance the Public Participation Process: An Analysis of Public Comments about the U.S. DEA’s Proposal to Reschedule Marijuana. (Planned submission by September 2025)
+- **Wang, S.**, & L. Wang. (2026). Nationwide U.S. very-high-resolution Impervious Surfaces Maps 2022-2024 with Ensemble Remote Sensing foundation models. Remote Sensing of Environment. (Planned submission by Feb 2026)
+- **Wang, S.**, & L. Wang. (2025). Quantifying High Spatiotemporal Impervious Surface Change with Time Series PlanetScope Imagery. Remote Sensing Applications: Society and Environment. Remote Sensing of Environment. (Submitted in Oct 2025, Under R2)
+- Yin, L., Silverman, R. M., **Wang, S.**, Patterson, K. L., & Rehman-Veal, A. (2025) Using ChatGPT to Enhance the Public Participation Process: An Analysis of Public Comments about the U.S. DEA’s Proposal to Reschedule Marijuana. Transforming Government: People, Process and Policy. (Accepted)
 - Yin, L., **Wang, S.**, Patterson, K. L., Silverman, R. M., & Rehman-Veal, A. (2025) Exploring Media Perspectives and Public Sentiments of New York State Recreational Marijuana Legalization: Analyzing New York Times and Twitter Data using ChatGPT. (Planned submission by October 2025)
 
 # 🎖 Honors and Awards
