@@ -39,7 +39,7 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images\SUNYAi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- 2025.12 🎉🎉 **Co-PI Funding for my Dissertation $71,295 ** Proposal: Decoding Urban Scaling Theory with AI 
+- 2025.12 🎉🎉 **Co-PI Funding for my Dissertation $71,295** Proposal: Decoding Urban Scaling Theory with AI 
 Foundation Models and Remote Sensing: U.S. 0.3-2 m Impervious Surface Mapping (2002-2024) and Peer City Discovery
 </div>
 </div>
@@ -48,28 +48,6 @@ Foundation Models and Remote Sensing: U.S. 0.3-2 m Impervious Surface Mapping (2
 <div class='paper-box-text' markdown="1">
   
 - 2025.05 🎉🎉 **Solo instructor for GEO 120 Maps: Earth from Above** [Syllabus Link](https://buffalo.box.com/s/09w8ll3925nyvsnd5b1s76itxq3dr6b3)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/remotesensing.0227.fig.001.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- 2024.08 🎉🎉 **My first publication about how to use Remote Sensing and Mobile Phone Data to map monthly population, Open Access!** [Paper Link](https://spj.science.org/doi/full/10.34133/remotesensing.0227)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/1716492269640.jfif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- 2024.06 🎉🎉 **Present at State of the Map US 2024 conference in Salt Lake**, [Talk Link](https://youtu.be/D9GzD2YQAQA?si=98-ffcsLncRww11e)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/2024 AAG RSSG Student Honors Paper_1 Place_SuiyuanWang.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- 2024.04 🎉🎉 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers
-
 </div>
 </div>
 
@@ -147,3 +125,25 @@ based on PlanetScope time series. Spring 2024 Colloquial Series, Department of G
 - 2020-2023	**Member** International Association of Chinese Professionals in Geographic Information Sciences (CPGIS)
 - 2021-2023	**Member** University Consortium for Geographic Information Science (UCGIS)
 
+# Archived News
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/remotesensing.0227.fig.001.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- 2024.08 🎉🎉 **My first publication about how to use Remote Sensing and Mobile Phone Data to map monthly population, Open Access!** [Paper Link](https://spj.science.org/doi/full/10.34133/remotesensing.0227)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/1716492269640.jfif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- 2024.06 🎉🎉 **Present at State of the Map US 2024 conference in Salt Lake**, [Talk Link](https://youtu.be/D9GzD2YQAQA?si=98-ffcsLncRww11e)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2024 AAG RSSG Student Honors Paper_1 Place_SuiyuanWang.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- 2024.04 🎉🎉 **Student Honors Paper Competition Award (1st place)**, Remote Sensing Specialty Group, Annual Meeting of the Association of American Geographers
+
+</div>
+</div>
