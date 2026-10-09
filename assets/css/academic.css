@@ -1,0 +1,61 @@
+/* Modest academic refresh, layered over the existing Jekyll theme. */
+body { color: #263444; font-family: Georgia, "Times New Roman", serif; line-height: 1.7; }
+.masthead, .sidebar, .academic-kicker, .academic-links, .content-date { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+.masthead { border-bottom: 1px solid #dce2e8; }
+.masthead__menu-item a { color: #234365; }
+.page__content h1, .page__content h2, .page__content h3 { color: #173b60; font-family: Georgia, "Times New Roman", serif; }
+.page__content h2 { margin-top: 2.4em; padding-bottom: .45em; border-bottom: 1px solid #dce2e8; font-size: 1.45em; }
+.page__content h3 { margin-top: 1.4em; font-size: 1.13em; line-height: 1.4; }
+.page__content li { margin-bottom: .65em; }
+.page__content a { color: #224b8d; text-underline-offset: 3px; }
+a:focus-visible, summary:focus-visible, button:focus-visible { outline: 3px solid #224b8d; outline-offset: 4px; }
+.page__content [id] { scroll-margin-top: 5rem; }
+.page__content #about-me { margin-top: 0; }
+.page__content #about-me:before, .page__content h1:before, .legacy-anchor:before { display: none; }
+.academic-intro { padding: .3em 0 1.2em; }
+.academic-kicker { color: #536477; font-size: .8em !important; letter-spacing: .035em; margin-bottom: .6em !important; }
+.page__content .academic-intro h1 { margin: 0 0 .55em; padding: 0; border: 0; font-size: 2.15em; line-height: 1.15; }
+.research-statement { font-size: 1.2em !important; line-height: 1.55; color: #173b60; }
+.academic-links { display: flex; flex-wrap: wrap; align-items: center; gap: .7em 1.3em; margin-top: 1.3em; font-size: .9em; }
+.academic-links .cv-link { background: #173b60; color: white; padding: .55em .9em; text-decoration: none; border-radius: 3px; }
+.academic-links .cv-link:hover { background: #224b8d; }
+.file-format { font-size: .85em; }
+.research-feature { margin-bottom: 2em; }
+.research-feature figure { margin: 1.3em 0; }
+.research-feature figcaption { color: #536477; font-size: .86em; line-height: 1.6; margin-top: .8em; }
+.population-figure img { display: block; width: 100%; max-width: 540px; height: auto; margin: 0 auto; }
+.research-workflow { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1em; list-style: none; padding: 0; margin: 0; }
+.research-workflow li { background: #f5f7fa; border-top: 3px solid #315d87; padding: 1em; margin: 0; }
+.research-workflow strong, .research-workflow span { display: block; }
+.research-workflow .workflow-step { font-size: .8em; color: #536477; font-family: sans-serif; margin-bottom: .55em; }
+.research-workflow strong { color: #173b60; margin-bottom: .35em; }
+.research-workflow li > span:last-child { font-size: .9em; line-height: 1.5; }
+.research-output { font-size: .9em !important; }
+.publication-list { padding-left: 1.5em; }
+.publication-list li { padding-left: .3em; margin-bottom: 1em; }
+.publication-status, .content-date { color: #536477; }
+.legacy-anchor { display: block; height: 0; scroll-margin-top: 5rem; }
+.storymap-details { border: 1px solid #dce2e8; padding: 1em; margin-top: 2em; }
+.storymap-details summary { color: #173b60; cursor: pointer; font-weight: bold; }
+.academic-intro > .storymap-details { margin: 0 0 1.5em; }
+.storymap-details p { margin-top: 1em; }
+.storymap-details iframe { border: 0; max-width: 100%; }
+.academic-contact { padding-bottom: 2em; }
+.content-date { font-size: .8em !important; }
+.skip-link { position: absolute; left: -10000px; top: 0; }
+.skip-link:focus { left: 1em; top: 1em; background: white; padding: .7em; z-index: 100; }
+.no-js .greedy-nav button { display: none; }
+.no-js .greedy-nav .visible-links { display: flex; flex-wrap: wrap; }
+.no-js .greedy-nav .visible-links li { display: block; }
+@media (max-width: 600px) {
+  .research-workflow { grid-template-columns: 1fr; gap: .65em; }
+  .page__content .academic-intro h1 { font-size: 1.8em; }
+  .research-statement { font-size: 1.08em !important; }
+  .academic-links { gap: .8em 1em; }
+  .page__content h2 { font-size: 1.3em; }
+}
+@media print {
+  .masthead, .storymap-details, .skip-link { display: none; }
+  .research-workflow { display: flex; }
+  .research-workflow li { flex: 1; }
+}

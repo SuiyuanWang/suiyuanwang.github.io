@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Suiyuan Wang"
-description              : "Live the life you image."
+description              : "Remote sensing, geospatial AI, and spatiotemporal analysis for sustainable neighborhood development."
 repository               : "SuiyuanWang/SuiyuanWang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Suiyuan Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Department of Geography, The State University of New York at Buffalo"
+  bio              : "Ph.D. Candidate in Geography, University at Buffalo"
   location         : "Buffalo, NY, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # Add your Google Scholar profile URL here.
   email            : "suiyuanw@buffalo.edu"
-  researchgate     : "https://www.researchgate.net/profile/Suiyuan-Wang-3"
+  researchgate     : # "https://www.researchgate.net/profile/Suiyuan-Wang-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SuiyuanWang"
+  github           : # "https://github.com/SuiyuanWang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/suiyuan-wang-706960286/"
+  linkedin         : "suiyuan-wang-706960286"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
